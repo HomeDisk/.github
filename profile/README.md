@@ -1,6 +1,6 @@
 ## HomeDisk
 
-[screenshot-home]: https://cdn.medzik.xyz/oe68xHZ.png
+[screenshot-home]: https://cdn.medzik.xyz/x4Glw7w.png
 
 Fast, lightweight and Open Source local cloud for your data made in Rust 🦀
 
