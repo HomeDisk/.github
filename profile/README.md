@@ -8,4 +8,4 @@ Fast, lightweight and Open Source local cloud for your data made in Rust 🦀
 
 **Website moved to [MedzikUser/HomeDisk-Website](https://github.com/MedzikUser/HomeDisk-Website).**
 
-[![screenshot-home]](https://homedisk.medzik.xyz)
+![image](https://user-images.githubusercontent.com/87065584/184614358-739fdd59-6948-49fc-8aea-3c1c72460d11.png)
